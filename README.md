@@ -73,3 +73,6 @@ Key Features
 Local Storage: Ensures that the to-do list and theme preferences are saved across sessions.
 Responsive Design: The layout adjusts for different screen sizes.
 Animations: Smooth transitions for adding, completing, and deleting to-do items, as well as for theme changes.
+
+
+
