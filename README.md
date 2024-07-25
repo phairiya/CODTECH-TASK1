@@ -70,9 +70,12 @@ Toggle Theme:
 
 Click the sun/moon icon to switch between light and dark modes.
 Key Features
+
+
 Local Storage: Ensures that the to-do list and theme preferences are saved across sessions.
 Responsive Design: The layout adjusts for different screen sizes.
 Animations: Smooth transitions for adding, completing, and deleting to-do items, as well as for theme changes.
 
+![to do](https://github.com/user-attachments/assets/b331b707-2952-4356-87ca-e60a8d8ab0cc)
 
 
